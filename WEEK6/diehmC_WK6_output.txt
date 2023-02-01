@@ -1,0 +1,18 @@
+TITLE: 
+Dashboard
+
+URL LIST: 
+http://socialpark.com/profile/cyberapolis.savingsloan/
+http://chirpyhub.com/casl
+
+IMAGES: 
+/Content/images/logo-7.png
+/Content/images/money-saving.png
+/Content/images/mobile-banking.png
+/Content/images/financial-report.png
+/Content/images/logo-7.png
+/Content/images/SocialPark_29px_gray.png
+/Content/images/ChirpyHub_logo_B&W.png
+
+
+END OF SCRIPT
